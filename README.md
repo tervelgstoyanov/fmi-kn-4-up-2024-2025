@@ -10,6 +10,6 @@
 
 
 # Материали за практикуми по седмици
-### [:one: Променливи, принтиране, аритметични операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_0_Intro)
+### [:one: Променливи, принтиране, аритметични операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_1)
 
 
