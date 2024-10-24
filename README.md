@@ -10,6 +10,9 @@
 
 
 # Материали за практикуми по седмици
-### [:one: Променливи, принтиране, аритметични операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_1)
+### [:one: Променливи, принтиране, аритметични операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_01)
 
+### [:two: Tипове и операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_02)
+
+### [:three: Оператори за проверки: if, if-else, switch](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_03)
 
