@@ -13,6 +13,10 @@
 
 ### [:three: Цикли](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Seminar/Week_3)
 
+### [:four: Масиви](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Seminar/Week_4)
+
+### [:five: Функции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Seminar/Week_5)
+
 
 # Материали за практикуми по седмици
 ### [:one: Променливи, принтиране, аритметични операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_01)
@@ -20,4 +24,12 @@
 ### [:two: Tипове и операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_02)
 
 ### [:three: Оператори за проверки: if, if-else, switch](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_03)
+
+### [:four: Оператори за цикъл: for, while, do-while](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_04)
+
+### [:five: Масиви](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_05)
+
+### [:six: Функции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_06)
+
+### [:seven: Низове](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_07)
 
