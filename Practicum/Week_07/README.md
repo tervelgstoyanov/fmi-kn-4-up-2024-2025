@@ -24,8 +24,8 @@ Hello world! //str1
 Пример:
 ```
 Вход:
-3 bfb //str2
-5 gawdk //str2
+bfb //str1
+gawdk //str2
 
 Изход:
 -5
@@ -33,8 +33,8 @@ Hello world! //str1
 
 ```
 Вход:
-3 bfb
-3 bfb
+bfb //str1
+bfb //str2
 
 Изход:
 0
@@ -46,8 +46,8 @@ Hello world! //str1
 Пример:
 ```
 Вход:
-3 bfb //destination
-5 gawdk //source
+bfb //destination
+gawdk //source
 
 Изход:
 bfbgawdk //destination
@@ -59,8 +59,8 @@ bfbgawdk //destination
 Пример:
 ```
 Вход:
-3 bfb //destination
-5 gawdk //source
+bfb //destination
+gawdk //source
 
 Изход:
 gawdk // destination
@@ -98,7 +98,7 @@ Most common symbol: 6 t
 Примери
 ```
 Вход:
-5 swiss
+swiss
 
 Изход: 
 w
@@ -106,7 +106,7 @@ w
 
 ```
 Вход: 
-11 abracadabra
+abracadabra
 
 Изход: "c"
 ```
@@ -120,9 +120,9 @@ w
 ```
 Вход:
 3
-6 flower
-4 flow
-6 flight
+flower
+flow
+flight
 
 Изход:
 fl
@@ -130,10 +130,10 @@ fl
 ```
 Вход:
 4
-3 abc
-3 aba
-3 def
-2 ac
+abc
+aba
+def
+ac
 Изход:
 
 ```
