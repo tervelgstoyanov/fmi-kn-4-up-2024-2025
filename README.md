@@ -23,6 +23,12 @@ _Компютърни науки 4та група_
 
 ### [:seven: Многомерните масиви](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Seminar/Week_7)
 
+### [:eight: Рекурсия](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Seminar/Week_8)
+
+### [:nine: Динамична памет](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Seminar/Week_9)
+
+### [:one::zero: Преговор](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Seminar/Week_10)
+
 # Материали за практикуми по седмици
 
 ### [:one: Променливи, принтиране, аритметични операции](https://github.com/tervelgstoyanov/fmi-kn-1-up-2024-2025/tree/main/Practicum/Week_01)
